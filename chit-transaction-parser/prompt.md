@@ -1,0 +1,6 @@
+- parse throught the images and create a csv file with the transaction date and amount transferred and the transaction id and a static field of 40000 chit amout. And in that table end show chit amount total and transaction amount total.
+- yeah create a python script then that geneartes csv file whenever asjked for.
+- transaction amount not shoing in the csv genreated. please check once. I installed tesseract-ocr now with default location and all features selected in the installer.
+- trsanaction data not following same format. can you check.
+- can you follow the dd-mmm-yyyy format
+- perfect. can you update the README.md file with what this script does and clear instructuions on how to setup the environment whoever wants to try running it. Treating them as a complete layman, also provoide instrcutions for ubuntu,windows and mac
